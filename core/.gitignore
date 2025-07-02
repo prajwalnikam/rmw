@@ -1,0 +1,51 @@
+# Laravel & PHP
+/vendor
+/vendor_back
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+/.vagrant
+/.idea
+/.phpstorm.meta.php
+/.vscode
+
+# Laravel specific
+/storage/app/public
+/storage/framework/cache/data
+/storage/logs
+/bootstrap/cache
+
+core/storage/framework/sessions
+core/storage/framework/views
+core/storage/framework/cache/data
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Composer and NPM
+composer.lock
+package-lock.json
+yarn.lock
+
+# PHPUnit
+.phpunit.result.cache
+
+# Logs and debug
+*.log
+*.env.backup
+.env.*
+
+# Cache & temporary files
+*.cache
+*.tmp
+
+# Laravel Telescope
+storage/telescope
+
+# Laravel Ignition
+storage/ignition

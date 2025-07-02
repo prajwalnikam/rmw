@@ -1,0 +1,1 @@
+<?php /**PATH /home/piks/Documents/rmwork-zv/core/app/Providers/../../plugins/PageBuilder/views/mobiapplica/mobiapplica.blade.php ENDPATH**/ ?>
